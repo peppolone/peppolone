@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋 I'm Giuseppe, a Full Stack Developer
 
-<!--
-**peppolone/peppolone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on creating modern, performant, and user-friendly web applications. I enjoy working across the entire stack, from front-end to back-end, using modern technologies to build complete solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Technologies
+
+**Languages:**
+- TypeScript
+- JavaScript
+- HTML / CSS
+- SQL
+
+**Tech Stack & Tools:**
+- **Frontend:** React, Tailwind CSS, shadcn/ui, Radix UI, Vite
+- **Backend & Data:** Node.js, Supabase (Postgres, Auth, Storage), Vercel (Serverless Functions)
+- **Frameworks:** Vike (React SSR)
+- **DevOps:** Git, GitHub, Vercel
+- **IDE:** Visual Studio Code
+
+---
+
+### 📫 Get in Touch
+
+- **GitHub:** [@peppolone](https://github.com/peppolone)
+- **Website:** [argentodev.com](https://www.argentodev.com)
