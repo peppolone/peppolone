@@ -1,26 +1,31 @@
-### Hi there 👋 I'm Giuseppe, a Full Stack Developer
+# Giuseppe Argento
 
-I'm a passionate developer focused on creating modern, performant, and user-friendly web applications. I enjoy working across the entire stack, from front-end to back-end, using modern technologies to build complete solutions.
+Full-stack web developer with 20+ years of experience building fast, usable digital products.
 
-### 👨‍💻 My Development Philosophy
+I work across SaaS, editorial platforms, product websites, and WordPress engineering, with a strong focus on performance, accessibility, technical SEO, and maintainable UX.
 
--   **💡 Full-Stack Craftsmanship:** I believe in a holistic approach to development, ensuring quality and consistency from the database to the user interface.
--   **🎨 Design-Driven UX:** With a strong background in graphic design and UX/UI, I build intuitive and visually appealing interfaces that prioritize the user experience.
--   **🚀 Performance & SEO:** I specialize in optimizing applications for speed and search engine visibility, ensuring that digital products are both discoverable and efficient.
--   **📚 Continuous Growth:** I am committed to continuous learning and staying updated with the latest technologies, including React, Next.js, TypeScript, and Supabase.
-  
-### 🛠️ Tech Stack & Skills
+## Selected work
 
--   **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite
--   **Backend & Data:** Node.js, Supabase, PostgreSQL, REST APIs, Vercel Serverless Functions
--   **CMS:** WordPress (Custom Theme & Plugin Development)
--   **Design & UX:** UI/UX Design, Design Systems, Figma, Adobe Creative Suite, Accessibility (A11y)
--   **Performance & SEO:** SEO Optimization, PageSpeed Insights, Web Marketing
--   **Tools & DevOps:** Git, GitHub, Vercel, VS Code
+- [GitHub Release Watchman](https://www.gitwatchman.com) - Open-source SaaS that monitors GitHub repositories and sends release notifications by email. Built with Next.js 16, React 19, Supabase, and automated background jobs. ([repo](https://github.com/peppolone/github-release-watchman))
+- [Geo CycleTour](https://geo-cycletour.vercel.app) - Ciclotourism platform with Leaflet maps, GPX parsing via Web Worker, elevation charts, and a full admin workflow for routes and POIs.
+- [FinanzaZen](https://www.finanzazen.com) - Italian financial education platform with strict content validation, source verification, and an anti-hallucination editorial pipeline.
+- [Elpeda](https://www.elpeda.it) - SSR calculator for e-liquid recipes with guided UX, real-time validation, and editorial content designed for search visibility.
+- [Crociere Vela Grecia](https://www.crocierevelagrecia.it) - WordPress maintenance and optimization work focused on performance, accessibility, security, and SEO, including a PageSpeed improvement from 45 to 96 on desktop.
+- [Vi Home Roma](https://www.vihome.it) - Premium WordPress website for short rentals and property services in Rome, with localized SEO and conversion-oriented UX.
 
----
+## What I usually build
 
-### 📫 Get in Touch
+- Next.js and React applications
+- Supabase-backed dashboards and content platforms
+- High-performance WordPress websites and maintenance workflows
+- Technical SEO, Core Web Vitals, and accessibility improvements
+- UX/UI systems for service businesses and editorial products
 
-- **GitHub:** [@peppolone](https://github.com/peppolone)
-- **Website:** <a href="https://www.argentodev.com" target="_blank">argentodev.com</a>
+## Stack
+
+Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, WordPress, PHP, Vercel, Playwright, SEO, UI/UX
+
+## Links
+
+- Website: [argentodev.com](https://www.argentodev.com)
+- GitHub: [@peppolone](https://github.com/peppolone)
