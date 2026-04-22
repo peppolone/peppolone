@@ -1,8 +1,8 @@
 # Giuseppe Argento
 
-I build modern web products with Next.js, React, and Supabase, and I help turn existing websites into faster, clearer, SEO-friendly platforms.
+I build modern web products and improve existing platforms with a focus on speed, clarity, and search performance.
 
-Most of my work sits between product UX, technical SEO, accessibility, and performance. I like building new systems when needed and improving existing ones when the real problem is speed, clarity, or maintainability.
+I work mainly with Next.js, React, TypeScript, Supabase, and WordPress, across product UX, technical SEO, accessibility, and performance.
 
 ## TL;DR
 
