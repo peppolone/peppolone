@@ -1,15 +1,15 @@
 # Giuseppe Argento
 
-I build websites, web apps, and content platforms that are fast, clear, and easy to maintain.
+I build modern web products with Next.js, React, and Supabase, and I help turn existing websites into faster, clearer, SEO-friendly platforms.
 
-My work usually sits at the intersection of product UX, technical SEO, accessibility, and performance. I work mainly with Next.js, React, TypeScript, Supabase, and WordPress.
+Most of my work sits between product UX, technical SEO, accessibility, and performance. I like building new systems when needed and improving existing ones when the real problem is speed, clarity, or maintainability.
 
 ## TL;DR
 
 - Full-stack web developer with 20+ years of experience
-- I build product sites, editorial platforms, SaaS flows, and WordPress systems
-- Strong focus on Core Web Vitals, technical SEO, accessibility, and clean UX
-- I like turning complex or messy setups into calmer, faster products
+- I build product sites, editorial platforms, SaaS flows, and web applications
+- I optimize existing websites for Core Web Vitals, technical SEO, accessibility, and cleaner UX
+- Strong hands-on experience with Next.js, React, TypeScript, Supabase, and WordPress
 
 ## Selected work
 
@@ -22,9 +22,9 @@ My work usually sits at the intersection of product UX, technical SEO, accessibi
 
 ## Focus
 
+- Product websites, web apps, editorial platforms, and SaaS flows
 - Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS
-- WordPress, PHP, modernization, maintenance, and recovery work
-- Structured data, content architecture, performance tuning, and accessibility
+- WordPress modernization, maintenance, structured data, performance tuning, and accessibility
 
 ## Links
 
