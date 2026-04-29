@@ -1,15 +1,20 @@
 # Giuseppe Argento
 
-I build modern web products and improve existing platforms with a focus on speed, clarity, and search performance.
+Full-stack web developer. I build modern web products and improve existing platforms
+with a focus on speed, clarity, and search performance.
 
-I work mainly with Next.js, React, TypeScript, Supabase, and WordPress, across product UX, technical SEO, accessibility, and performance.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ## TL;DR
 
-- Full-stack web developer with 20+ years of experience
 - I build product sites, editorial platforms, SaaS flows, and web applications
 - I optimize existing websites for Core Web Vitals, technical SEO, accessibility, and cleaner UX
-- Strong hands-on experience with Next.js, React, TypeScript, Supabase, and WordPress
 
 ## Selected work
 
@@ -22,9 +27,9 @@ I work mainly with Next.js, React, TypeScript, Supabase, and WordPress, across p
 
 ## Open Source Contributions
 
-- **[Kodi](https://kodi.tv)** — [#28233](https://github.com/xbmc/xbmc/pull/28233) 
-  Refreshed macOS, iOS, and tvOS app icons across all Apple platforms (Kodi 22 "Piers")
-  
+- **[Kodi](https://kodi.tv)** (award-winning open source media center, 500+ contributors) — [#28233](https://github.com/xbmc/xbmc/pull/28233)  
+  Refreshed macOS, iOS, and tvOS app icons across all Apple platforms · Kodi 22 "Piers"
+
 ## Focus
 
 - Product websites, web apps, editorial platforms, and SaaS flows
@@ -33,5 +38,4 @@ I work mainly with Next.js, React, TypeScript, Supabase, and WordPress, across p
 
 ## Links
 
-- [Website](https://www.argentodev.com)
-- [GitHub](https://github.com/peppolone)
+- [Website](https://www.argentodev.com) — available for freelance and consulting
