@@ -20,6 +20,11 @@ I work mainly with Next.js, React, TypeScript, Supabase, and WordPress, across p
 - [Crociere Vela Grecia](https://www.crocierevelagrecia.it) - WordPress optimization and maintenance focused on performance, accessibility, security, and SEO
 - [Vi Home Roma](https://www.vihome.it) - Premium WordPress website for short rentals and property services with localized SEO and conversion-focused UX
 
+## Open Source Contributions
+
+- **[Kodi](https://kodi.tv)** — [#28233](https://github.com/xbmc/xbmc/pull/28233) 
+  Refreshed macOS, iOS, and tvOS app icons across all Apple platforms (Kodi 22 "Piers")
+  
 ## Focus
 
 - Product websites, web apps, editorial platforms, and SaaS flows
