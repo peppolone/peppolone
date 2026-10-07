@@ -11,7 +11,7 @@ with a focus on speed, clarity, and search performance.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-- [Personal Website](https://www.argentodev.com) — available for freelance and consulting
+- [Personal Website](https://www.argentodev.com/en) — available for freelance and consulting
 
 ## TL;DR
 
